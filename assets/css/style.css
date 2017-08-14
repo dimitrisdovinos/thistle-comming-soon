@@ -62,7 +62,7 @@ img { max-width: 100%; }
 
 
 .coming-soon .logo a:before {
-	content: url(../img/logo-hover.png);
+	content: url(../img/thistle.png);
 	width: 0;
 	height: 0;
 	visibility: hidden;
