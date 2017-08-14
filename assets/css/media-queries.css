@@ -18,7 +18,7 @@
 	
 	.footer-copyright p, .footer-social { text-align: center; }
 	.footer-copyright { padding-bottom: 15px; }
-
+    .backstretch { min-width: 800px!important;}
 }
 
 @media (max-width: 550px) {
@@ -51,19 +51,6 @@
     	content: url(../img/thistle.png);
     }
     
-    /* social icons */
-    .social-icon.facebook {
-    	background-image: url(../img/social-icons/facebook@2x.png) !important; background-repeat: no-repeat !important; background-size: 48px 48px !important;
-    }
-    .social-icon.twitter {
-    	background-image: url(../img/social-icons/twitter@2x.png) !important; background-repeat: no-repeat !important; background-size: 48px 48px !important;
-    }
-    .social-icon.dribbble {
-    	background-image: url(../img/social-icons/dribbble@2x.png) !important; background-repeat: no-repeat !important; background-size: 48px 48px !important;
-    }
-    .social-icon.google-plus {
-    	background-image: url(../img/social-icons/google-plus@2x.png) !important; background-repeat: no-repeat !important; background-size: 48px 48px !important;
-    }
-	
+
 }
 
